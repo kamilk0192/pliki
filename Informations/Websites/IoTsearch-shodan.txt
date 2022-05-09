@@ -1,0 +1,3 @@
+SITE https://www.shodan.io/ - Site for searching Internet of Everything(IoT) devices
+#########################################################
+Use Shodan to discover everything from power plants, mobile phones, refrigerators and Minecraft servers.
